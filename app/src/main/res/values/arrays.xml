@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kota">
+        <item> Ngawi </item>
+        <item> Magetan </item>
+        <item> Madiun </item>
+        <item> Surabaya </item>
+        <item> Malang </item>
+        <item> Bandung </item>
+        <item> Jakarta </item>
+    </string-array>
+</resources>
