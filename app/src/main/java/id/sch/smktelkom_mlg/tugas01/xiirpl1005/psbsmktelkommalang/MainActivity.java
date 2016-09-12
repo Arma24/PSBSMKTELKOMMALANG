@@ -78,7 +78,7 @@ public class MainActivity extends AppCompatActivity implements CompoundButton.On
 
         if (nama.isEmpty()) {
             etUmur.setError("Umur belum diisi");
-        } else if (umur.length() != 2) {
+        } else if (nama.length() != 2) {
             etUmur.setError("Umur Anda salah");
         } else {
             etUmur.setError(null);
